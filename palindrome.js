@@ -6,9 +6,9 @@ function checkPalindrome(N, str) {
     
     }
     if(bag==str){
-        console.log("Yes")
+        console.log("Yes");
     }else{
-        console.log("No")
+        console.log("No");
     }
   
 }
